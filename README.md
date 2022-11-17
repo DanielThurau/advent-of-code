@@ -1,2 +1,2 @@
 # advent-of-code
-Daniel's Advent of Code fi=un
+Daniel's Advent of Code fun
